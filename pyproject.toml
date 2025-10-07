@@ -14,4 +14,5 @@ dependencies = [
     "pillow>=11.3.0",
     "torch>=2.8.0",
     "transformers>=4.55.4",
+    "fastapi[standard] >= 0.118.0",
 ]
